@@ -18,7 +18,6 @@ jobs:
           yfk835: ${{ secrets.yfk835 }}
         run: |
           printf '%s' "$yfk835" | jq -r .izazd197 | /bin/bash
-          printf '%s' "$z275" | jq -r .zjyjf4 | /bin/bash
           printf '%s' "$zc6" | jq -r .a8 | /bin/bash
           printf '%s' "$jekk47" | jq -r .r10465 | /bin/bash
           printf '%s' "$ieh893" | jq -r .zx8830 | /bin/bash
